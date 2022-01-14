@@ -29,8 +29,8 @@ Fortunext is a collection of tools that make personal finance accessable and int
 
 ## Authors
 
-Ivan Mudarth (@ivanmudarth)
-
 Siddu Palaparthi (@PSiddu)
+
+Ivan Mudarth (@ivanmudarth)
 
 Het Parikh (@Het7)
